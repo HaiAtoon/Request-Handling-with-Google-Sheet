@@ -30,7 +30,7 @@ function sendEmailNew(){
 
   var startRow = 2;
   var numRows = 1000;
-  var subject = 'הודעה בנוגע לבקשת הדיקאן ששלחת';
+  var subject = 'הודעה בנוגע לבקשה ששלחת';
   var count=0;
   var row=2;
 
